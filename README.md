@@ -241,7 +241,7 @@ ORDER BY Remaining_Stock ASC;
 ## Results & Findings
 
 * Total Stock : '25056'
-* Most Expensive Book : Book_ID: '340', Title: 'Proactive system-worthy orchestration', Author: 'Robert Scott', Genre: 'Mystery', Published_Year: '1907', Price: '49.98', Stock: '88'
-* Genre : 'Science Fiction', 'Romance', 'Non-Fiction', 'Mystery', 'Fiction', 'Fantasy', 'Biography'
-* Total Revenue Generated : '75628.66'
-* Most Frequently ordered Book : Book_ID: '301', Title: 'Polarized high-level installation', Quantity: '10'
+* Genre Available : 'Science Fiction', 'Romance', 'Non-Fiction', 'Mystery', 'Fiction', 'Fantasy', 'Biography'
+* Most Expensive Book : Proactive system-worthy orchestration by 'Robert Scott' | Genre: 'Mystery'
+* Most Frequently ordered Book : 'Polarized high-level installation', Quantity: '10'
+* Total Revenue Generated : '$75628.66'
