@@ -304,24 +304,10 @@ ORDER BY Remaining_Stock ASC;
 
 ---
 
-## Results
+## Results & Findings
 
-Include a short summary of results and link to any exported CSV or plots (add these after you run the queries). Example visualizations you can generate from query outputs:
-
-* Top-selling books and authors (bar charts)
-* Genre revenue and quantity sold (pie or stacked bar)
-* City-level customer spend (map or bar chart)
-* Stock remaining vs. threshold alerts (table)
-
-Save plot images under `outputs/figures/` and result tables under `outputs/tables/`.
-
----
-
-## Key findings (example placeholders — replace with your actual numbers)
-
-* Top genre by units sold: **Fantasy** (X units)
-* Total revenue: **\$Y**
-* Number of out-of-stock titles: **Z**
-* Top customer by spend: `Customer_ID` #### with **\$W** total
-
-Replace these placeholders with the numeric outputs from `outputs/tables/*`.
+* Total Stock : '25056'
+* Most Expensive Book : Book_ID: '340', Title: 'Proactive system-worthy orchestration', Author: 'Robert Scott', Genre: 'Mystery', Published_Year: '1907', Price: '49.98', Stock: '88'
+* Genre : 'Science Fiction', 'Romance', 'Non-Fiction', 'Mystery', 'Fiction', 'Fantasy', 'Biography'
+* Total Revenue Generated : '75628.66'
+* Most Frequently ordered Book : Book_ID: '301', Title: 'Polarized high-level installation', Quantity: '10'
