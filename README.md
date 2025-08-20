@@ -240,8 +240,8 @@ ORDER BY Remaining_Stock ASC;
 
 ## Results & Findings
 
-* Total Stock : '25056'
+* Total Stock : 25056 units
 * Genre Available : 'Science Fiction', 'Romance', 'Non-Fiction', 'Mystery', 'Fiction', 'Fantasy', 'Biography'
 * Most Expensive Book : Proactive system-worthy orchestration by 'Robert Scott' | Genre: 'Mystery'
 * Most Frequently ordered Book : 'Polarized high-level installation', Quantity: '10'
-* Total Revenue Generated : '$75628.66'
+* Total Revenue Generated : $75628.66
