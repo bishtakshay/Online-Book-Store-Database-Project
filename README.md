@@ -1,7 +1,5 @@
 # Online Book Store Database Project
 
-**Project period:** April 2025 – May 2025
-
 ## Overview
 
 This repository contains a MySQL-based analysis for an online book store. The project ingests CSV data into a MySQL schema and implements 20+ SQL queries to answer business questions about inventory, sales, customers, and revenue. Queries range from basic filters and aggregates to intermediate joins and an advanced stock/revenue reconciliation.
